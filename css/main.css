@@ -176,6 +176,7 @@
 }
 .mobile-menu__cancel {
   font-size: 20px;
+  cursor: pointer;
 }
 .mobile-menu__header {
   display: flex;

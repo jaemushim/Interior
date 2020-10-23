@@ -69,6 +69,7 @@
     float: left;
     color: #fff;
     position: absolute;
+    cursor: pointer;
     top: 50%;
     left: 10px;
     transform: translateY(-50%);
